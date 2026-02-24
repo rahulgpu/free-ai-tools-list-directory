@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scene Dreamer - AI Tool</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .bio {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .content {
+            background: #f9f9f9;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .meta {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://media.theresanaiforthat.com/assets/favicon-large.svg?width=100" alt="Scene Dreamer Logo" style="width: auto; height: 100px; margin-bottom: 20px;">
+        <h1>Scene Dreamer</h1>
+        <p class="bio">SceneDreamer: Turning 2D images into unbounded 3D scenes.</p>
+        <a href="https://aitoolslist.xyz/scene-dreamer/" class="button">Visit Tool Page</a>
+    </header>
+
+    <main>
+        <div class="content">
+            <h2>About Scene Dreamer</h2>
+            <p>SceneDreamer is a novel AI tool designed for the synthesis of unbounded 3D scenes from 2D image collections. It employs an unconditional generative model that transforms noise signals into large-scale 3D scenes, without the need for any 3D annotations. SceneDreamer uses an effective learning method that combines an efficient 3D scene interpretation with a generative scene parameterization and an effective rendering capability which translates knowledge from 2D images. The 3D scene representation starts with an efficient bird's eye view originating from simplex noise. This representation is composed of a height field, indicative of the surface elevation of 3D scenes, and a semantic field that provides detailed scene semantics. This provides a disentangled geometry and semantics and enables efficient training. SceneDreamer then utilizes a generative neural hash grid to parameterize the latent space, taking into account 3D positions and scene semantics. The final output is a photorealistic image produced by a neural volumetric renderer learned from 2D image collections. This tool is effective in generating vivid and diverse unbounded 3D landscapes, as attested by extensive experiments. In addition, SceneDreamer allows seamless camera mobility for realistic renderings and dynamic scene visualization.</p>
+        </div>
+
+        <div class="meta">
+            <p>Category: 3D scenes from images</p>
+        </div>
+    </main>
+</body>
+</html>

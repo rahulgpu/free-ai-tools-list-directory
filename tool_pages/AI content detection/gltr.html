@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GLTR - AI Tool</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .bio {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .content {
+            background: #f9f9f9;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .meta {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://media.theresanaiforthat.com/icons/gltr.svg?width=100" alt="GLTR Logo" style="width: auto; height: 100px; margin-bottom: 20px;">
+        <h1>GLTR</h1>
+        <p class="bio">A tool to detect automatically generated text.</p>
+        <a href="https://aitoolslist.xyz/gltr/" class="button">Visit Tool Page</a>
+    </header>
+
+    <main>
+        <div class="content">
+            <h2>About GLTR</h2>
+            <p>GLTR (Giant Language model Test Room) is a forensic tool for detecting automatically generated text from large language models. It works by inspecting the 'visual footprint' of the said text and helping predict if an automatic system generated the content. GLTR uses the same models responsible for generating the text to identify if the text has been artificially produced. It primarily functions with the GPT-2 117M language model from OpenAI, employing large language models to analyze textual input and evaluate what GPT-2 might have predicted at each position. The tool provides a colored overlay mask to illustrate the likelihood of each word being used under the model. The colors range from green for most likely (top 10 words) to purple for least likely words. The tool consists of histograms to aggregate the information related to the whole text, indicating the ratio between the top predicted word and subsequent word, and demonstrating the distribution over the uncertainties of the predictions. While GLTR is efficient, its revelations are somewhat alarming, highlighting the ease with which AI could produce forged text, thereby underscoring the need for more robust, discerning detection mechanisms.</p>
+        </div>
+
+        <div class="meta">
+            <p>Category: AI content detection</p>
+        </div>
+    </main>
+</body>
+</html>

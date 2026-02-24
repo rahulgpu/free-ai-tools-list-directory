@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UI Sketcher - AI Tool</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .bio {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .content {
+            background: #f9f9f9;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .meta {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://media.theresanaiforthat.com/icons/ui-sketcher.svg?width=100" alt="UI Sketcher Logo" style="width: auto; height: 100px; margin-bottom: 20px;">
+        <h1>UI Sketcher</h1>
+        <p class="bio">Turn UI sketches into code with the magic of GPT-4 Vision</p>
+        <a href="https://aitoolslist.xyz/ui-sketcher/" class="button">Visit Tool Page</a>
+    </header>
+
+    <main>
+        <div class="content">
+            <h2>About UI Sketcher</h2>
+            <p>UI Sketcher is an extension for Visual Studio Code that utilizes the capabilities of GPT-4 Vision to transform user interface (UI) sketches into code. Once installed, users can draw their UI on an integrated drawing board, and generate code by clicking 'Make Real'. The code is placed where the user's cursor is located in the open text file. The tool aims to offer a straightforward and time-saving way to convert UI concepts into functional code. It also allows iteration through a live preview URL, providing a real-time view of the generated user interface. Though the product hasn't been tested thoroughly across many stacks, it has shown excellent compatibility with Tailwind and Svelte. The extension also offers custom settings to tailor the generated code to the project's needs, with considerations for project packages, custom instructions, preview URL and maximum token generation. The UI Sketcher is built to handle the OpenAI API token securely, stored in a secret store managed by VSCode, ensuring user data privacy and protection.</p>
+        </div>
+
+        <div class="meta">
+            <p>Category: UI code</p>
+        </div>
+    </main>
+</body>
+</html>

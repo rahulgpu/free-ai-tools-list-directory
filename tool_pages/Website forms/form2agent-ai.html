@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form2Agent AI - AI Tool</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .bio {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .content {
+            background: #f9f9f9;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .meta {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://media.theresanaiforthat.com/icons/form2agent-ai.svg?width=100" alt="Form2Agent AI Logo" style="width: auto; height: 100px; margin-bottom: 20px;">
+        <h1>Form2Agent AI</h1>
+        <p class="bio">Enhance existing web application with voice assisted AI agent</p>
+        <a href="https://aitoolslist.xyz/form2agent-ai/" class="button">Visit Tool Page</a>
+    </header>
+
+    <main>
+        <div class="content">
+            <h2>About Form2Agent AI</h2>
+            <p>Form2Agent is a versatile AI-powered tool that greatly simplifies adding advanced AI features to existing web applications. It can be adapted to various industries and business needs. Our solution goes beyond just form-filling. It also empowers users with content management features and powerful dataset searching and filtering capabilities and more. Key features include: Seamless integration with existing web forms and website navigation Hands-free operation with speech recognition and a fully voiced AI assistant including a dedicated mobile app Extracting information from never-before-seen documents Multi-language support with real-time translation AI-assisted data entry and validation Form2Agent demonstrates its versatility by offering significant benefits across a wide range of industries. Let's explore some specific examples: For healthcare: Streamline patient intake forms and medical history collection In finance: Automate loan applications and financial document processing For e-commerce: Enhance customer registration and order forms In human resources: Optimize job application and employee onboarding processes For government agencies: Improve the efficiency of public service forms and applications In education: Simplify student enrollment and course registration forms For legal services: Automate client intake and document preparation By reducing form completion time and errors while improving user experience, Form2Agent can be tailored to enhance operations in virtually any industry that relies on form-based data collection and processing. Technical context Form2Agent is a unique microservice designed to simplify multiple processes, use cases and workflows. This microservice employs the LLM to return a JSON form with suitable values, all by wrapping the user's prompt and sending it to the LLM’s API, alongside the JSON model of the use case and its context. Depending on the use case, your application of any type can make a REST API call to Form2Agent endpoints. The request should consist of three core aspects, where some may be optional: Data - a structure and values of a given use case that requires AI support. Prompt (optional for file usage) - user input provided in natural language or voice transcription. Context - a structure that mimics a “Data” section that provides additional context for given input. Form2Agent can be integrated into both client and server side applications to support various use cases. It can also be used for process automation, workflow suggestions and walkthrough or automatic code base changes. Key Benefits: Tech Stack Independence: This microservice architecture is built to support any tech stack. This means that it can be integrated into your existing ecosystem, regardless of the technology stack used. The independence of the microservice ensures that it does not interfere with other services, providing a high degree of compatibility. Easy Integration: The design of our product prioritizes ease of integration. It can be seamlessly incorporated into your existing system with minimal changes needed. This reduces the time and effort required to get it up and running. Generic Usage: The service is designed to handle any form or content. All it takes is to provide a JSON serialized model skeleton and optionally its context. The F2A can support all kinds of inputs, including multi-selects, radio groups, or multiple checkboxes. Dynamic Context: The tool can serve flows, multi-step forms, optional fields, or conditional ones. Dedicated infrastructure: The Form2Agent can be hosted on Your own infrastructure, providing a more tailored approach to the product as well as an additional security layer Your system provides. F2A is a flexible solution that can be introduced into an existing cloud infrastructure or on-premise one. Security and Compliance The security of the data is one of the most important aspects of software, Form2Agent AI is designed to meet multiple security standards and practices. We provide secure transfer and storage of your data on multiple layers. Data Encryption: All data transmitted between the client and server is encrypted using HTTPS/TLS to prevent eavesdropping and man-in-the-middle attacks. Compliance: Adherence to industry standards and regulations such as GDPR, HIPAA to ensure data protection and privacy. Security Patches: Regular updates and patches to the software to protect against known vulnerabilities. Authentication & Authorization tailored to Your own system. Requests limit and throttling to prevent DDoS Your data is NOT used for LLM’s training purposes. The frontend code is now open source. Check it out here: https://github.com/fmtops/form2agent-ai-react</p>
+        </div>
+
+        <div class="meta">
+            <p>Category: Website forms</p>
+        </div>
+    </main>
+</body>
+</html>

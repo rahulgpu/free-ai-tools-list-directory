@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dobb-E - AI Tool</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .bio {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .content {
+            background: #f9f9f9;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .meta {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://media.theresanaiforthat.com/icons/dobb-e.svg?width=100" alt="Dobb-E Logo" style="width: auto; height: 100px; margin-bottom: 20px;">
+        <h1>Dobb-E</h1>
+        <p class="bio">Trained household robots via imitation learning.</p>
+        <a href="https://aitoolslist.xyz/dobb-e/" class="button">Visit Tool Page</a>
+    </header>
+
+    <main>
+        <div class="content">
+            <h2>About Dobb-E</h2>
+            <p>Dobb·E is an open-source framework designed for teaching robots household tasks through a process known as imitation learning. The framework aims to address the limitations of current home robotics by providing a cheap and ergonomic solution for collecting demonstrations. This is achieved through the use of a tool called the Stick, which is constructed using a $25 Reacher-grabber stick, 3D printed parts, and an iPhone.Dobb·E leverages the Stick to collect data from a dataset called Homes of New York (HoNY), which consists of 13 hours of interactions at 22 different homes in New York City. The dataset includes RGB and depth videos, as well as action annotations for the gripper's 6D pose and opening angle.Using the collected data, Dobb·E trains a representation learning model called Home Pretrained Representations (HPR). This model, based on ResNet-34 architecture and trained using self-supervised learning objectives, initializes a robot policy for performing new tasks in novel environments.Dobb·E has demonstrated the ability to achieve an 81% average success rate in solving novel tasks within 15 minutes, based on five minutes of collected data in a new home.The framework provides access to pre-trained models, code, and documentation through GitHub. Additionally, an open-access paper titled "On Bringing Robots Home" provides further insights into the methodology and results of Dobb·E.</p>
+        </div>
+
+        <div class="meta">
+            <p>Category: Household robotic manipulation</p>
+        </div>
+    </main>
+</body>
+</html>

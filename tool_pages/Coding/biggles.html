@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biggles - AI Tool</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .bio {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .content {
+            background: #f9f9f9;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .meta {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://media.theresanaiforthat.com/assets/favicon-large.svg?width=100" alt="Biggles Logo" style="width: auto; height: 100px; margin-bottom: 20px;">
+        <h1>Biggles</h1>
+        <p class="bio">Voice-controlled code insertion/modification assistant.</p>
+        <a href="https://aitoolslist.xyz/biggles/" class="button">Visit Tool Page</a>
+    </header>
+
+    <main>
+        <div class="content">
+            <h2>About Biggles</h2>
+            <p>Biggles is a coding assistant tool available on GitHub. With Biggles, users can insert and modify code either by giving voice commands or typing instructions. By default, Biggles inserts new code at the current cursor position based on the user's instruction. Alternatively, users can select existing code and instruct Biggles to modify it accordingly.Biggles utilizes the OpenAI Whisper and ChatGPT APIs to understand and execute user requests. To access these capabilities, users need to provide their own OpenAI API key. Additionally, in order to provide proper context for ChatGPT, Biggles sends code snippets before and after the cursor position.However, it is important to note that Biggles has some limitations. It has limited awareness of the overall code base and only operates within the proximity of the current cursor position. Users have the ability to adjust the number of tokens sent to ChatGPT for context in the settings. Furthermore, Biggles offers two modes: inserting new code when no code is selected, and modifying a selected block of code. It currently lacks the ability to perform more complex operations such as code movement.Overall, Biggles serves as a helpful coding assistant that allows users to conveniently insert and modify code through voice commands or typed instructions, enhancing the coding experience within the Visual Studio Code environment.</p>
+        </div>
+
+        <div class="meta">
+            <p>Category: Coding</p>
+        </div>
+    </main>
+</body>
+</html>

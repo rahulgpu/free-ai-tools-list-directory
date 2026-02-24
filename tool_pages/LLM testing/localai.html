@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Localai - AI Tool</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .bio {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .content {
+            background: #f9f9f9;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .meta {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://media.theresanaiforthat.com/icons/localai.svg?width=100" alt="Localai Logo" style="width: auto; height: 100px; margin-bottom: 20px;">
+        <h1>Localai</h1>
+        <p class="bio">Local experimentation & model management</p>
+        <a href="https://aitoolslist.xyz/localai/" class="button">Visit Tool Page</a>
+    </header>
+
+    <main>
+        <div class="content">
+            <h2>About Localai</h2>
+            <p>The Local AI Playground is a native app designed to simplify the process of experimenting with AI models locally. It allows users to perform AI experiments without any technical setup, eliminating the need for a dedicated GPU. The tool is free and open-source. With a Rust backend, the local.ai app is memory-efficient and compact, with a size of less than 10MB on Mac M2, Windows, and Linux. The tool offers CPU inferencing capabilities and adapts to available threads, making it suitable for various computing environments. It also supports GGML quantization with options for q4, 5.1, 8, and f16.Local AI Playground provides features for model management, allowing users to keep track of their AI models in a centralized location. It offers resumable and concurrent model downloading, usage-based sorting, and is agnostic to the directory structure.To ensure the integrity of downloaded models, the tool offers a robust digest verification feature using BLAKE3 and SHA256 algorithms. It includes digest computation, a known-good model API, license and usage chips, and a quick check using BLAKE3.The tool also includes an inferencing server feature, which allows users to start a local streaming server for AI inferencing with just two clicks. It provides a quick inference UI, supports writing to .mdx files, and includes options for inference parameters and remote vocabulary.Overall, the Local AI Playground provides a user-friendly and efficient environment for local AI experimentation, model management, and inferencing.</p>
+        </div>
+
+        <div class="meta">
+            <p>Category: LLM testing</p>
+        </div>
+    </main>
+</body>
+</html>

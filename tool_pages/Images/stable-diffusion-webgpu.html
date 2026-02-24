@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stable Diffusion Webgpu - AI Tool</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .bio {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .content {
+            background: #f9f9f9;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .meta {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://media.theresanaiforthat.com/icons/stable-diffusion-webgpu.svg?width=100" alt="Stable Diffusion Webgpu Logo" style="width: auto; height: 100px; margin-bottom: 20px;">
+        <h1>Stable Diffusion Webgpu</h1>
+        <p class="bio">Web images generated with Stable Diffusion</p>
+        <a href="https://aitoolslist.xyz/stable-diffusion-webgpu/" class="button">Visit Tool Page</a>
+    </header>
+
+    <main>
+        <div class="content">
+            <h2>About Stable Diffusion Webgpu</h2>
+            <p>Stable Diffusion WebGPU demo is a web-based application that allows users to generate images using the create-react-app framework. To access the application, users need to have JavaScript enabled and use the latest version of Chrome, which requires enabling the "Experimental WebAssembly" and "Experimental WebAssembly JavaScript Promise Integration (JSPI)" flags. The application performs a series of inference steps to generate an image, with each step taking approximately 1 minute plus around 10 seconds for the VAE decoder to generate the image. It is worth noting that having the DevTools open can slow down the process by approximately 2 times. The UNET model, which is responsible for image generation, only runs on the CPU due to better performance and accurate results compared to the GPU.For acceptable results, the minimum number of steps recommended is 20; however, for demonstration purposes, 3 steps would suffice. The model files are cached, eliminating the need for repeated downloads.The application provides a user-friendly interface with options to load the model, run the image generation process, and view the result. To address specific issues, an FAQ section is available, offering troubleshooting guidance.Despite running on a GPU, the webgpu implementation in onnxruntime is still in its early stage, causing some operations to be incomplete. This leads to data being continuously transferred between the CPU and GPU, impacting performance. Multi-threading is not currently supported, and limitations in WebAssembly prevent the creation of 64-bit memory with SharedArrayBuffer. The developer plans to address these issues through proposed spec changes and engine patches.The source code for Stable Diffusion WebGPU demo is available on GitHub, allowing users to run it locally. Additionally, a patched version of onnxruntime is provided, enabling the use of large language models with transformers.js, although its reliability in all scenarios is not guaranteed. The developer also plans to submit a pull request to the onnxruntime repository.</p>
+        </div>
+
+        <div class="meta">
+            <p>Category: Images</p>
+        </div>
+    </main>
+</body>
+</html>
