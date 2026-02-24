@@ -1,0 +1,18 @@
+{
+  "title": "Windsurf — AI Tool Review",
+  "description": "Windsurf is Codeium's agentic IDE that proactively takes multi-step coding actions, reads your intent, and builds features autonomously. Windsurf is an AI-first code editor from Codeium that goes beyond autocomplete to take full agentic coding actions. Its 'Cascade' agent reads your codebase, understands your intent, and can autonomously implement features, fix bugs, and run commands across multiple files. It's positioned as a direct competitor to Cursor with a focus on agentic, multi-step AI workflows. Highlights: Agentic Cascade for autonomous coding. Deep codebase understanding. File creation and editing. Terminal integration. Free tier available.",
+  "tags": [
+    "coding assistant",
+    "ide",
+    "ai coding",
+    "agentic",
+    "codeium",
+    "AI Coding Assistant",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Windsurf",
+  "toolSlug": "windsurf",
+  "permalink": "https://aitoolslist.xyz/windsurf/"
+}

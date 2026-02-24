@@ -1,0 +1,18 @@
+{
+  "title": "SuperAGI — AI Tool Review",
+  "description": "SuperAGI is an open-source multi-agent framework with a visual UI for orchestrating autonomous AI agents with tools, memory, and marketplace skills. SuperAGI is an open-source autonomous AI agent framework with a graphical interface for creating, managing, and running AI agents. It supports multiple parallel agents, a marketplace of agent tools, vector memory, and integrations with various LLMs including GPT-4, Claude, and open-source models. Highlights: Visual agent management UI. Multi-agent parallel support. Tool marketplace. Vector memory integration. Multiple LLM support.",
+  "tags": [
+    "ai agent",
+    "open source",
+    "multi-agent",
+    "orchestration",
+    "gpt-4",
+    "AI Agent Framework",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "SuperAGI",
+  "toolSlug": "superagi",
+  "permalink": "https://aitoolslist.xyz/superagi/"
+}

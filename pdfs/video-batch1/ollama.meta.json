@@ -1,0 +1,18 @@
+{
+  "title": "Ollama — AI Tool Review",
+  "description": "Ollama lets you run powerful open-source AI models (Llama, Mistral, DeepSeek) locally on your computer with a simple command. Ollama is an open-source tool that makes running large language models locally on your computer as easy as running a single command. It supports Llama 3, Mistral, DeepSeek, Phi, Gemma, and dozens of other models, providing a local API that works with most AI applications. It's the easiest way to run private, free AI locally. Highlights: One-command model installation. Completely private — no data leaves your machine. Free to use. Wide model support. Local API compatible with OpenAI API.",
+  "tags": [
+    "local ai",
+    "open source",
+    "self-hosted",
+    "llm",
+    "private ai",
+    "AI Runtime",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Ollama",
+  "toolSlug": "ollama",
+  "permalink": "https://aitoolslist.xyz/ollama/"
+}

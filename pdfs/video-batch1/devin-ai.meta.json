@@ -1,0 +1,18 @@
+{
+  "title": "Devin AI — AI Tool Review",
+  "description": "Devin is Cognition's autonomous AI software engineer that can plan, code, debug, and deploy complete software projects independently. Devin AI, built by Cognition Labs, is billed as the world's first fully autonomous AI software engineer. It can take a software task specification and autonomously write code, fix bugs, run tests, navigate codebases, search the web for documentation, and deploy applications — completing engineering tasks end-to-end with minimal human oversight. It shocked the industry with its SWE-bench benchmark scores. Highlights: End-to-end autonomous software development. Bug fixing and test running. Web search for documentation. GitHub and CLI integration. Complex multi-file project handling.",
+  "tags": [
+    "ai agent",
+    "software engineer",
+    "autonomous coding",
+    "cognition",
+    "agentic ai",
+    "AI Software Engineer",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Devin AI",
+  "toolSlug": "devin-ai",
+  "permalink": "https://aitoolslist.xyz/devin-ai/"
+}

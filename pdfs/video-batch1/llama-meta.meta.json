@@ -1,0 +1,18 @@
+{
+  "title": "Llama by Meta — AI Tool Review",
+  "description": "Meta's Llama is the world's most popular open-source LLM family, enabling free, private, self-hosted AI deployment at any scale. Meta's Llama (Large Language Model Meta AI) is the most widely used open-source AI model family in the world. Llama 3, 3.1, and 3.3 offer GPT-3.5 to GPT-4 level capabilities in a freely downloadable package. It powers thousands of products and is the foundation for Ollama, LM Studio, and countless fine-tuned models. Available in 8B, 70B, and 405B parameter versions. Highlights: Completely free and open-source. Self-hostable for privacy. Foundation for thousands of fine-tuned models. Multiple model sizes. Community support ecosystem.",
+  "tags": [
+    "open source",
+    "llm",
+    "meta",
+    "self-hosted",
+    "local ai",
+    "AI Model",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Llama by Meta",
+  "toolSlug": "llama-meta",
+  "permalink": "https://aitoolslist.xyz/llama-meta/"
+}

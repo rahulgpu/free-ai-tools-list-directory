@@ -1,0 +1,18 @@
+{
+  "title": "Cursor — AI Tool Review",
+  "description": "Cursor is an AI-first code editor forked from VS Code that embeds Claude and GPT-4 directly into your IDE for codebase-aware AI coding assistance. Cursor is an AI-powered code editor built on VS Code that offers the most powerful in-IDE AI coding experience available. It provides codebase-aware suggestions, multi-file editing (Composer), natural language code editing, terminal command generation, and automatic error fixing. It's become the editor of choice for professional developers who want AI deeply integrated into their workflow. Highlights: Codebase-aware AI context. Multi-file editing with Composer. Familiar VS Code interface. GPT-4 and Claude models. Autocomplete + chat + edit modes.",
+  "tags": [
+    "coding assistant",
+    "ide",
+    "ai coding",
+    "vscode",
+    "copilot",
+    "AI Coding Assistant",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Cursor",
+  "toolSlug": "cursor",
+  "permalink": "https://aitoolslist.xyz/cursor/"
+}

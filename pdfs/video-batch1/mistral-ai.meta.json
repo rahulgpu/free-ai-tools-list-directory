@@ -1,0 +1,18 @@
+{
+  "title": "Mistral AI — AI Tool Review",
+  "description": "Mistral AI is a French AI company offering powerful open-source LLMs that punch above their weight class, ideal for efficient, self-hosted AI. Mistral AI is a Paris-based AI company known for creating highly efficient open-source language models. Mistral 7B, Mixtral 8x7B, and Mistral Large have set benchmarks for performance-per-parameter. Their models are particularly popular for self-hosting, RAG applications, and use cases where running AI locally or privately is important. Also available via API. Highlights: Strong open-source models. Highly efficient (good performance per parameter). Self-hostable. European data sovereignty. Competitive API pricing.",
+  "tags": [
+    "open source",
+    "llm",
+    "french ai",
+    "api",
+    "efficient model",
+    "AI Model",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Mistral AI",
+  "toolSlug": "mistral-ai",
+  "permalink": "https://aitoolslist.xyz/mistral-ai/"
+}

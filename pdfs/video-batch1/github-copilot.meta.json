@@ -1,0 +1,18 @@
+{
+  "title": "GitHub Copilot — AI Tool Review",
+  "description": "GitHub Copilot is Microsoft's AI pair programmer that provides real-time code suggestions across all major IDEs, trained on billions of lines of code. GitHub Copilot is the original AI pair programmer, developed by GitHub and OpenAI. It offers real-time code completions, function generation from comments, and now a full chat interface in IDEs. Available in VS Code, Visual Studio, JetBrains, Neovim, and more. Copilot Enterprise adds codebase indexing for large organizations. Free for verified students and open-source maintainers. Highlights: Widest IDE support. Real-time inline suggestions. GitHub repository integration. Free for students and OSS maintainers. Multi-language support.",
+  "tags": [
+    "coding assistant",
+    "github",
+    "microsoft",
+    "autocomplete",
+    "ide",
+    "AI Coding Assistant",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "GitHub Copilot",
+  "toolSlug": "github-copilot",
+  "permalink": "https://aitoolslist.xyz/github-copilot/"
+}

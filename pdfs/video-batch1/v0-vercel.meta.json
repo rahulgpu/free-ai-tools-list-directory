@@ -1,0 +1,18 @@
+{
+  "title": "v0 by Vercel — AI Tool Review",
+  "description": "v0 by Vercel generates production-ready React and Next.js UI components from text prompts, using shadcn/ui and Tailwind CSS. v0 is Vercel's AI UI generation tool that creates production-ready React and Next.js components from natural language descriptions. It generates clean, modern code using shadcn/ui and Tailwind CSS that can be copy-pasted directly into any Next.js project. Hugely popular with developers for rapidly prototyping UI components and pages. Highlights: Production-ready React code output. shadcn/ui + Tailwind CSS. Iterative refinement via chat. Direct Next.js integration. Free tier available.",
+  "tags": [
+    "ui generation",
+    "react",
+    "nextjs",
+    "frontend",
+    "shadcn",
+    "AI App Builder",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "v0 by Vercel",
+  "toolSlug": "v0-vercel",
+  "permalink": "https://aitoolslist.xyz/v0-vercel/"
+}

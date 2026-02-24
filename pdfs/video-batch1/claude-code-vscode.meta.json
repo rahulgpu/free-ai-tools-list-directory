@@ -1,0 +1,18 @@
+{
+  "title": "Claude Code (VS Code Extension) — AI Tool Review",
+  "description": "The official Claude Code VS Code extension brings Anthropic's agentic coding AI directly into your VS Code editor with full terminal integration. Claude Code for VS Code is the official extension that integrates Anthropic's Claude Code AI agent directly into the VS Code editor. It provides agentic coding capabilities including file reading/writing, terminal command execution, and multi-file editing — all without leaving VS Code. Part of Anthropic's push to make Claude Code accessible across development environments. Highlights: Native VS Code integration. Agentic coding capabilities. Full terminal access from IDE. Official Anthropic product. No context switching needed.",
+  "tags": [
+    "coding assistant",
+    "vscode",
+    "anthropic",
+    "claude",
+    "ide extension",
+    "AI Coding Assistant",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Claude Code (VS Code Extension)",
+  "toolSlug": "claude-code-vscode",
+  "permalink": "https://aitoolslist.xyz/claude-code-vscode/"
+}

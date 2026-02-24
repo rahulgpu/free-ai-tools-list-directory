@@ -1,0 +1,18 @@
+{
+  "title": "GPT-4o — AI Tool Review",
+  "description": "GPT-4o is OpenAI's omnimodel — natively multimodal, processing text, images, and audio simultaneously with near-instant response times. GPT-4o ('omni') is OpenAI's flagship model that natively handles text, images, and audio in a single model. It's the backbone of ChatGPT, offering vision (analyze images/documents), voice conversation, real-time translation, and text generation. GPT-4o mini is a fast, cheap version available free. GPT-4o is now available free to ChatGPT users with rate limits. Highlights: Native multimodal processing. Fastest GPT-4 class model. Available on free ChatGPT tier. Vision, voice, and text in one model. Strong API performance.",
+  "tags": [
+    "multimodal",
+    "openai",
+    "gpt",
+    "vision",
+    "voice",
+    "AI Model",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "GPT-4o",
+  "toolSlug": "gpt-4o",
+  "permalink": "https://aitoolslist.xyz/gpt-4o/"
+}

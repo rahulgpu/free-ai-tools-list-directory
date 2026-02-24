@@ -1,0 +1,18 @@
+{
+  "title": "n8n — AI Tool Review",
+  "description": "n8n is an open-source workflow automation tool with 400+ integrations and native AI agent support for building complex automation workflows. n8n is an open-source workflow automation platform (similar to Zapier but self-hostable) that has added native AI agent capabilities. It supports 400+ app integrations, can run AI workflows that call LLMs, process data, and connect APIs, and is particularly popular for building AI-powered automation pipelines. Free to self-host. Highlights: Open-source and self-hostable. 400+ integrations. Native AI agent capabilities. Visual workflow builder. Free forever for self-hosting.",
+  "tags": [
+    "workflow automation",
+    "no-code",
+    "open source",
+    "integrations",
+    "ai agent",
+    "AI Automation",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "n8n",
+  "toolSlug": "n8n",
+  "permalink": "https://aitoolslist.xyz/n8n/"
+}

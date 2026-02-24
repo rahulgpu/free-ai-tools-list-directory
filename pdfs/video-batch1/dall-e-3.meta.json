@@ -1,0 +1,18 @@
+{
+  "title": "DALL-E 3 — AI Tool Review",
+  "description": "DALL-E 3 is OpenAI's image generation model integrated into ChatGPT, capable of creating detailed images from natural language descriptions with high prompt accuracy. DALL-E 3 is OpenAI's text-to-image model that generates highly accurate, detailed images from natural language prompts. It's deeply integrated into ChatGPT Plus and the OpenAI API, allowing you to describe complex scenes in plain English and get precise results. DALL-E 3 significantly improved prompt adherence over DALL-E 2, making it the easiest image AI to use. Highlights: Excellent prompt accuracy. Available via ChatGPT interface. Easy natural language prompting. API access for developers. Safe content filters.",
+  "tags": [
+    "image generation",
+    "ai art",
+    "openai",
+    "text to image",
+    "chatgpt",
+    "AI Image Generator",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "DALL-E 3",
+  "toolSlug": "dall-e-3",
+  "permalink": "https://aitoolslist.xyz/dall-e-3/"
+}

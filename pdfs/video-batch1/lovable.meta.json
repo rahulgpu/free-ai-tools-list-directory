@@ -1,0 +1,18 @@
+{
+  "title": "Lovable — AI Tool Review",
+  "description": "Lovable is an AI-powered full-stack app builder that lets you create web apps from natural language prompts — no coding required. Lovable (formerly GPT Engineer) is a revolutionary AI app builder that generates production-ready React and full-stack web applications from plain English descriptions. It handles frontend UI, backend logic, database integration (Supabase), and deployment. Users can iterate on their app through conversation, making it the leading 'vibe coding' platform for non-developers and rapid prototyping. Highlights: Full-stack app generation from prompts. Supabase database integration. One-click deployment. React + TypeScript output. Figma import support.",
+  "tags": [
+    "app builder",
+    "no-code",
+    "vibe coding",
+    "react",
+    "full-stack",
+    "AI App Builder",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Lovable",
+  "toolSlug": "lovable",
+  "permalink": "https://aitoolslist.xyz/lovable/"
+}

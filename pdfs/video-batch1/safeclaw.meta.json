@@ -1,0 +1,18 @@
+{
+  "title": "SafeClaw — AI Tool Review",
+  "description": "SafeClaw replicates OpenClaw core functionality without prompt injection vulnerabilities — a minimal, safer autonomous AI assistant. SafeClaw is an open-source project providing OpenClaw's core features while eliminating prompt injection vulnerabilities and reducing attack scope. Designed for security-conscious users who want a simpler, safer autonomous AI assistant. Highlights: Minimal attack surface. Prompt injection protection. Simpler codebase to audit. Free and open-source.",
+  "tags": [
+    "ai agent",
+    "open source",
+    "secure",
+    "lightweight",
+    "local ai",
+    "AI Agent",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "SafeClaw",
+  "toolSlug": "safeclaw",
+  "permalink": "https://aitoolslist.xyz/safeclaw/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Bolt.new — AI Tool Review",
+  "description": "Bolt.new is StackBlitz's AI-powered web app builder that creates, runs, edits, and deploys full-stack applications directly in the browser. Bolt.new is an AI-powered development environment by StackBlitz that lets you build full-stack web applications entirely in the browser. Powered by Claude, it can install packages, run servers, debug errors, and deploy apps — all without any local setup. It's one of the fastest ways to go from idea to deployed app, making it hugely popular for vibe coding and rapid prototyping. Highlights: In-browser development — no setup. Full-stack: frontend + backend + DB. Instant preview and deployment. Package installation support. Claude-powered AI.",
+  "tags": [
+    "app builder",
+    "vibe coding",
+    "web development",
+    "stackblitz",
+    "full-stack",
+    "AI App Builder",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Bolt.new",
+  "toolSlug": "bolt-new",
+  "permalink": "https://aitoolslist.xyz/bolt-new/"
+}

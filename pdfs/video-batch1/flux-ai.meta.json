@@ -1,0 +1,18 @@
+{
+  "title": "Flux AI — AI Tool Review",
+  "description": "Flux is Black Forest Labs' open-source image generation model that has become the go-to alternative to Midjourney, with exceptional prompt accuracy and photorealism. Flux is a family of open-source image generation models from Black Forest Labs (founded by Stable Diffusion creators). Flux.1 Pro, Dev, and Schnell offer state-of-the-art image generation with superior text rendering, prompt accuracy, and photorealism compared to SDXL. Available via API through Replicate, Together.ai, and directly through fal.ai. Highlights: Open-source models available. Superior text rendering in images. Exceptional photorealism. Multiple model tiers (Pro/Dev/Schnell). Available on multiple platforms.",
+  "tags": [
+    "image generation",
+    "open source",
+    "text to image",
+    "black forest labs",
+    "stable diffusion",
+    "AI Image Generator",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Flux AI",
+  "toolSlug": "flux-ai",
+  "permalink": "https://aitoolslist.xyz/flux-ai/"
+}

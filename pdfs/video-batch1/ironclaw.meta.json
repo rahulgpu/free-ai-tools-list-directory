@@ -1,0 +1,18 @@
+{
+  "title": "IronClaw — AI Tool Review",
+  "description": "IronClaw is a security-first personal AI assistant with sandboxed tools — a safer alternative to OpenClaw for autonomous task automation. IronClaw is a security-focused alternative to OpenClaw developed by NEAR AI. It implements sandboxed tool execution to prevent prompt injection attacks and unauthorized system access. IronClaw is designed for users who want OpenClaw-style automation but with enterprise-grade security controls. Highlights: Security-first design with sandboxed execution. Prevents prompt injection attacks. Open-source and auditable. Built by NEAR AI team.",
+  "tags": [
+    "ai agent",
+    "open source",
+    "security-first",
+    "local ai",
+    "sandboxed",
+    "AI Agent",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "IronClaw",
+  "toolSlug": "ironclaw",
+  "permalink": "https://aitoolslist.xyz/ironclaw/"
+}

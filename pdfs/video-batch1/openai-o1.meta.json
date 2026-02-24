@@ -1,0 +1,18 @@
+{
+  "title": "OpenAI o1 — AI Tool Review",
+  "description": "OpenAI o1 is a reasoning-first AI model that 'thinks before answering,' excelling at complex math, science, and coding problems that require deep step-by-step logic. OpenAI o1 is OpenAI's reasoning-focused model series that uses chain-of-thought reasoning to solve complex problems. Unlike GPT-4 which answers immediately, o1 spends time 'thinking' through problems step by step, achieving state-of-the-art results on math olympiad problems, competitive coding, and scientific reasoning. Available to ChatGPT Plus users and via API. Highlights: Exceptional math and science reasoning. PhD-level problem solving. Handles ambiguous multi-step problems. Strong at competitive programming. Transparent reasoning process.",
+  "tags": [
+    "reasoning",
+    "openai",
+    "math",
+    "science",
+    "chain of thought",
+    "AI Reasoning Model",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "OpenAI o1",
+  "toolSlug": "openai-o1",
+  "permalink": "https://aitoolslist.xyz/openai-o1/"
+}

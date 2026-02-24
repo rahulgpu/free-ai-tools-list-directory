@@ -1,0 +1,18 @@
+{
+  "title": "DeepSeek — AI Tool Review",
+  "description": "DeepSeek is a Chinese open-source AI lab's chat model that rivals GPT-4 at a fraction of the cost, with exceptional math and coding capabilities. DeepSeek is an AI research company from China that released DeepSeek-R1, a reasoning-focused model that matches or beats GPT-4o and Claude on many benchmarks while being open-source and significantly cheaper to run. The chat interface is free to use. DeepSeek V3 and R1 have taken the AI world by storm for their performance-to-cost ratio. Highlights: Open-source models freely available. Exceptional math and reasoning. GPT-4 level at much lower cost. Free web chat interface. Strong coding abilities.",
+  "tags": [
+    "chatbot",
+    "ai assistant",
+    "reasoning",
+    "open source",
+    "chinese ai",
+    "AI Chatbot",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "DeepSeek",
+  "toolSlug": "deepseek",
+  "permalink": "https://aitoolslist.xyz/deepseek/"
+}

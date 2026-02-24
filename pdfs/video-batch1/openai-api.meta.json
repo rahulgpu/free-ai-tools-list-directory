@@ -1,0 +1,18 @@
+{
+  "title": "OpenAI API — AI Tool Review",
+  "description": "The OpenAI API provides access to GPT-4, o1, DALL-E 3, Whisper, and other models for building powerful AI applications and products. The OpenAI API is the most widely used AI API in the world, powering thousands of products and services. It provides access to GPT-4o, o1, o3-mini, DALL-E 3 for images, Whisper for speech recognition, TTS for text-to-speech, and embeddings for semantic search. It includes assistants with file upload, code interpreter, and function calling. Highlights: Largest model ecosystem. Most comprehensive AI APIs. Widest third-party integration. Assistants API for complex workflows. Fine-tuning available.",
+  "tags": [
+    "api",
+    "developer",
+    "openai",
+    "gpt api",
+    "llm api",
+    "AI API Platform",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "OpenAI API",
+  "toolSlug": "openai-api",
+  "permalink": "https://aitoolslist.xyz/openai-api/"
+}

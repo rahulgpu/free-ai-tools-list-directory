@@ -1,0 +1,18 @@
+{
+  "title": "Stable Diffusion — AI Tool Review",
+  "description": "Stable Diffusion is the pioneering open-source image generation model that democratized AI art and powers thousands of creative tools. Stable Diffusion is the open-source image generation model from Stability AI that revolutionized AI art creation. It can run entirely on consumer hardware, enabling private, uncensored, customizable image generation. A massive ecosystem of fine-tuned models (Civitai), UIs (AUTOMATIC1111, ComfyUI), and applications has grown around it. SD3 and SDXL are the latest major versions. Highlights: Completely free and open-source. Runs on consumer GPU. Massive model ecosystem (Civitai). Highly customizable (ControlNet, LoRA). No content restrictions when self-hosted.",
+  "tags": [
+    "image generation",
+    "open source",
+    "ai art",
+    "local ai",
+    "stable diffusion",
+    "AI Image Generator",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Stable Diffusion",
+  "toolSlug": "stable-diffusion",
+  "permalink": "https://aitoolslist.xyz/stable-diffusion/"
+}

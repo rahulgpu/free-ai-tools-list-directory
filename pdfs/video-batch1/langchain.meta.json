@@ -1,0 +1,18 @@
+{
+  "title": "LangChain — AI Tool Review",
+  "description": "LangChain is the most popular open-source LLM framework with 90,000+ stars for building AI agents, RAG systems, and chatbots. LangChain is the most widely adopted framework for building LLM-powered applications. It provides abstractions for chaining LLM calls, RAG, building agents, and managing memory. With 90,000+ GitHub stars, LangChain powers everything from simple chatbots to complex autonomous agents and is considered the standard for LLM application development. Highlights: Largest ecosystem — 90k+ GitHub stars. Supports all major LLMs. RAG and memory built-in. Extensive integrations. Huge community.",
+  "tags": [
+    "llm framework",
+    "open source",
+    "ai agents",
+    "rag",
+    "developer tool",
+    "AI Development Framework",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "LangChain",
+  "toolSlug": "langchain",
+  "permalink": "https://aitoolslist.xyz/langchain/"
+}

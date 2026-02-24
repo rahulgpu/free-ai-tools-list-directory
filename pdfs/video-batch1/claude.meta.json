@@ -1,0 +1,18 @@
+{
+  "title": "Claude — AI Tool Review",
+  "description": "Claude is Anthropic's AI assistant known for nuanced reasoning, long-context analysis, and a safety-focused approach to helpful AI. Claude is Anthropic's flagship AI assistant available through Claude.ai. It excels at complex reasoning, long-document analysis (200K token context window), coding, and nuanced writing. Claude is designed with safety at its core and is particularly strong at following instructions precisely. Available in free and Pro tiers, plus via API. Highlights: Exceptional long-context handling (200K tokens). Superior instruction following. Strong reasoning and analysis. Safety-focused by design. Excellent at nuanced writing.",
+  "tags": [
+    "chatbot",
+    "ai assistant",
+    "text generation",
+    "anthropic",
+    "claude",
+    "AI Chatbot",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Claude",
+  "toolSlug": "claude",
+  "permalink": "https://aitoolslist.xyz/claude/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Claude Code — AI Tool Review",
+  "description": "Claude Code is Anthropic's agentic coding tool that runs directly in your terminal and can write, edit, debug, and manage entire codebases autonomously. Claude Code is an agentic AI coding assistant by Anthropic that operates from the command line. It can read, write, and edit files across your entire codebase, run commands, execute tests, fix bugs, and implement features end-to-end. Unlike copilot-style tools, Claude Code can autonomously handle multi-step engineering tasks without constant supervision. Highlights: Autonomous multi-step coding tasks. Full codebase awareness. Runs shell commands and tests. Git integration. No IDE required.",
+  "tags": [
+    "coding assistant",
+    "ai coding",
+    "agentic ai",
+    "anthropic",
+    "terminal",
+    "AI Coding Assistant",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Claude Code",
+  "toolSlug": "claude-code",
+  "permalink": "https://aitoolslist.xyz/claude-code/"
+}

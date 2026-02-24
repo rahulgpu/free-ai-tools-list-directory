@@ -1,0 +1,18 @@
+{
+  "title": "LiteClaw — AI Tool Review",
+  "description": "LiteClaw is a lightweight OpenClaw-style project focused on delivering core autonomous AI assistant functionality with minimal overhead. LiteClaw is a community-created lightweight alternative to OpenClaw that focuses on delivering the essential functionality of an autonomous AI assistant without unnecessary complexity. It targets developers who want a clean, understandable codebase they can extend for their own use cases. Highlights: Lightweight and focused. Clean minimal codebase. Open-source. Easy to extend.",
+  "tags": [
+    "ai agent",
+    "open source",
+    "lightweight",
+    "openclaw",
+    "local ai",
+    "AI Agent",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "LiteClaw",
+  "toolSlug": "liteclaw",
+  "permalink": "https://aitoolslist.xyz/liteclaw/"
+}

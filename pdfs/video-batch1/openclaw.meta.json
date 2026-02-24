@@ -1,0 +1,18 @@
+{
+  "title": "OpenClaw — AI Tool Review",
+  "description": "OpenClaw is an open-source autonomous AI assistant that automates tasks by connecting to messaging platforms and orchestrating AI agent workflows using LLMs locally. OpenClaw is a widely-used open-source autonomous AI assistant designed to run locally and orchestrate AI agent workflows using large language models. It can automate tasks by connecting to messaging platforms (like Telegram) and external tools. OpenClaw gained notoriety in early 2026 when a compromised npm package was discovered installing it silently on developer machines. As an open-source project, it has spawned multiple derivatives including IronClaw, SafeClaw, Mini-Claw, and ZeroClaw. Highlights: Fully open-source. Runs locally — no cloud required. Connects to messaging platforms. Extensible with custom skills. Active community and ecosystem.",
+  "tags": [
+    "ai agent",
+    "open source",
+    "autonomous agent",
+    "telegram",
+    "local ai",
+    "AI Agent",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "OpenClaw",
+  "toolSlug": "openclaw",
+  "permalink": "https://aitoolslist.xyz/openclaw/"
+}

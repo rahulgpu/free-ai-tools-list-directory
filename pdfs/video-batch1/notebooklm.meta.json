@@ -1,0 +1,18 @@
+{
+  "title": "NotebookLM — AI Tool Review",
+  "description": "NotebookLM is Google's AI research assistant that analyzes your uploaded documents and can turn them into AI-generated podcast conversations. NotebookLM is Google's AI-powered research and note-taking tool that allows you to upload documents, PDFs, videos, and web pages, then ask questions grounded entirely in your sources. Its viral 'Audio Overview' feature generates realistic two-host podcast conversations summarizing your research materials. Free to use with a Google account. Highlights: Grounded AI responses (no hallucinations). Audio Overview podcast generation. Multiple document types supported. Free with Google account. Source citations for every answer.",
+  "tags": [
+    "research",
+    "document analysis",
+    "google",
+    "ai notes",
+    "podcast generation",
+    "AI Research Assistant",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "NotebookLM",
+  "toolSlug": "notebooklm",
+  "permalink": "https://aitoolslist.xyz/notebooklm/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "NanoBot — AI Tool Review",
+  "description": "NanoBot is an ultra-lightweight personal AI assistant from HKUDS with a minimal footprint — ideal for edge devices and research environments. NanoBot is an ultra-lightweight personal AI assistant from Hong Kong University of Data Science (HKUDS) designed for minimal resource consumption. It provides core AI agent capabilities in an extremely small package, suitable for edge devices, Raspberry Pi, and resource-constrained environments. The ClawWork project builds economic task features on top of NanoBot basics. Highlights: Extremely lightweight. Works on edge devices. Low resource consumption. Research-backed. Open-source.",
+  "tags": [
+    "ai agent",
+    "open source",
+    "ultra-lightweight",
+    "edge ai",
+    "research",
+    "AI Agent",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "NanoBot",
+  "toolSlug": "nanobot-ai",
+  "permalink": "https://aitoolslist.xyz/nanobot-ai/"
+}

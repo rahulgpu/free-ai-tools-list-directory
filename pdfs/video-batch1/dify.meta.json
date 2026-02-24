@@ -1,0 +1,18 @@
+{
+  "title": "Dify — AI Tool Review",
+  "description": "Dify is an open-source LLMOps platform for building AI workflows, chatbots, and RAG applications with a visual no-code interface. Dify is an open-source LLM application development platform that allows teams to build AI workflows, chatbots, and knowledge base-powered applications through a visual interface. It supports RAG (Retrieval Augmented Generation), workflow automation, multiple LLM providers, and a plugin system. Self-hostable with an active community. Highlights: Open-source and self-hostable. Visual workflow builder. RAG/knowledge base support. Multiple LLM provider support. Active community.",
+  "tags": [
+    "llmops",
+    "no-code",
+    "workflow",
+    "rag",
+    "ai platform",
+    "AI Development Platform",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Dify",
+  "toolSlug": "dify",
+  "permalink": "https://aitoolslist.xyz/dify/"
+}

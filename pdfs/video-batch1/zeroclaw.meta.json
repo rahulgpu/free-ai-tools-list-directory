@@ -1,0 +1,18 @@
+{
+  "title": "ZeroClaw — AI Tool Review",
+  "description": "ZeroClaw is a fast, modular autonomous AI agent infrastructure with pluggable components for building custom agent workflows. ZeroClaw is a next-generation autonomous AI agent framework from ZeroClaw Labs that emphasizes modularity and performance. Unlike OpenClaw's monolithic approach, ZeroClaw uses a pluggable component architecture where each capability is an independent module. This makes it easier to customize, extend, and audit. Highlights: Modular pluggable architecture. Fast lightweight core. Easy to extend. Clean separation of concerns. Open-source.",
+  "tags": [
+    "ai agent",
+    "open source",
+    "modular",
+    "pluggable",
+    "autonomous",
+    "AI Agent Framework",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "ZeroClaw",
+  "toolSlug": "zeroclaw",
+  "permalink": "https://aitoolslist.xyz/zeroclaw/"
+}

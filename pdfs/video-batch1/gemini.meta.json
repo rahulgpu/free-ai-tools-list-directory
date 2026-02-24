@@ -1,0 +1,18 @@
+{
+  "title": "Gemini — AI Tool Review",
+  "description": "Gemini is Google's multimodal AI assistant, deeply integrated with Google Workspace, capable of processing text, images, audio, video, and code. Google Gemini is a family of multimodal AI models (Gemini 1.5 Pro, 2.0 Flash) powering Google's AI assistant. It features a 1 million token context window in Pro, real-time Google Search grounding, and deep integration with Gmail, Docs, Drive, and YouTube. Gemini Advanced includes the most capable models via Google One subscription. Highlights: Real-time Google Search integration. 1M token context (Pro). Multimodal: text, images, audio, video. Google Workspace integration. Free tier available.",
+  "tags": [
+    "chatbot",
+    "ai assistant",
+    "google",
+    "multimodal",
+    "text generation",
+    "AI Chatbot",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Gemini",
+  "toolSlug": "gemini",
+  "permalink": "https://aitoolslist.xyz/gemini/"
+}

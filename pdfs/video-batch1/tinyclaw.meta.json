@@ -1,0 +1,18 @@
+{
+  "title": "TinyClaw — AI Tool Review",
+  "description": "TinyClaw is an independent open-source AI agent inspired by OpenClaw, offering a clean minimal autonomous assistant for developers. TinyClaw is an independent AI agent project inspired by OpenClaw's philosophy of local, autonomous AI assistance. It provides a clean, minimal implementation as a starting point for developers building custom OpenClaw-style agents. Highlights: Clean minimal codebase. Good for customization. Open-source. Independent of OpenClaw security concerns.",
+  "tags": [
+    "ai agent",
+    "open source",
+    "lightweight",
+    "local ai",
+    "independent",
+    "AI Agent",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "TinyClaw",
+  "toolSlug": "tinyclaw",
+  "permalink": "https://aitoolslist.xyz/tinyclaw/"
+}

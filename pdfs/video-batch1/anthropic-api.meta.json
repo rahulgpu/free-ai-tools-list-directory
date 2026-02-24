@@ -1,0 +1,18 @@
+{
+  "title": "Anthropic API — AI Tool Review",
+  "description": "The Anthropic API gives developers direct access to Claude models for building AI applications with industry-leading safety and performance. The Anthropic API provides developers access to Claude models (Haiku, Sonnet, Opus) for building AI-powered applications. It offers the most generous rate limits in the industry, computer use capabilities, tool calling, vision, and a 200K token context window. Used by thousands of companies to build products on Claude's best-in-class reasoning and safety. Highlights: Access to Claude Opus/Sonnet/Haiku. 200K token context window. Computer use API. Tool calling and function use. Best-in-class safety.",
+  "tags": [
+    "api",
+    "developer",
+    "anthropic",
+    "claude api",
+    "llm api",
+    "AI API Platform",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "Anthropic API",
+  "toolSlug": "anthropic-api",
+  "permalink": "https://aitoolslist.xyz/anthropic-api/"
+}

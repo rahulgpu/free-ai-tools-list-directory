@@ -1,0 +1,18 @@
+{
+  "title": "AutoGPT — AI Tool Review",
+  "description": "AutoGPT is an open-source autonomous AI agent that chains GPT-4 calls to complete complex multi-step goals without human prompting. AutoGPT was one of the first autonomous AI agents — an open-source project that chains GPT-4 API calls to plan and execute complex tasks autonomously. It can browse the web, write and run code, manage files, and decompose large goals into subtasks. Though newer agents have surpassed it, AutoGPT remains historically significant as the pioneer of AI agentic frameworks. Highlights: Open-source and free. Web browsing capability. Code execution. Goal-decomposition planning. Large community.",
+  "tags": [
+    "ai agent",
+    "autonomous agent",
+    "task automation",
+    "open source",
+    "gpt-4",
+    "AI Agent",
+    "AI tools",
+    "artificial intelligence"
+  ],
+  "category": "Technology / AI",
+  "toolTitle": "AutoGPT",
+  "toolSlug": "autogpt",
+  "permalink": "https://aitoolslist.xyz/autogpt/"
+}
